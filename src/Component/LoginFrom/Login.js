@@ -6,6 +6,7 @@ import './Login.css'
 
 
 const Login = () => {
+    const [name,setName]=useState('');
     const auth = getAuth();
     const [email,setEmail] =useState('');
     const [password,setPasswors] =useState('');
@@ -31,7 +32,8 @@ const Login = () => {
         createUserWithEmailAndPassword(auth, email, password)
         .then((result) => {
             
-            const user =result.user;
+            const users =result.users;
+            setEmail(users)
             setError('');
             varifyEmail()
           })
