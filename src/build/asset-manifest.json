@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.861245a6.chunk.css",
+    "main.js": "/static/js/main.135904c5.chunk.js",
+    "main.js.map": "/static/js/main.135904c5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0e7596df.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0e7596df.js.map",
+    "static/js/2.817c9991.chunk.js": "/static/js/2.817c9991.chunk.js",
+    "static/js/2.817c9991.chunk.js.map": "/static/js/2.817c9991.chunk.js.map",
+    "static/js/3.720a285d.chunk.js": "/static/js/3.720a285d.chunk.js",
+    "static/js/3.720a285d.chunk.js.map": "/static/js/3.720a285d.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.861245a6.chunk.css.map": "/static/css/main.861245a6.chunk.css.map",
+    "static/js/2.817c9991.chunk.js.LICENSE.txt": "/static/js/2.817c9991.chunk.js.LICENSE.txt",
+    "static/media/404 img.d66404e2.jpg": "/static/media/404 img.d66404e2.jpg",
+    "static/media/appointment.459ffa57.jpg": "/static/media/appointment.459ffa57.jpg",
+    "static/media/Home.css": "/static/media/bg-img.5f2c362e.jpg",
+    "static/media/category1.f6c6ddb0.jpg": "/static/media/category1.f6c6ddb0.jpg",
+    "static/media/category2.f00e6d2f.jpg": "/static/media/category2.f00e6d2f.jpg",
+    "static/media/category3.f4eee333.jpg": "/static/media/category3.f4eee333.jpg",
+    "static/media/category4.b25a2c48.jpg": "/static/media/category4.b25a2c48.jpg",
+    "static/media/Contact.css": "/static/media/subheader4.34b251ed.jpg",
+    "static/media/teamslider1.f44dd108.jpg": "/static/media/teamslider1.f44dd108.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e7596df.js",
+    "static/js/2.817c9991.chunk.js",
+    "static/css/main.861245a6.chunk.css",
+    "static/js/main.135904c5.chunk.js"
+  ]
+}

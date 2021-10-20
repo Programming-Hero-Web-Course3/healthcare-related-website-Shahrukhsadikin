@@ -1,5 +1,5 @@
-import React, { useEffect } from 'react';
-import { useState } from 'react/cjs/react.development';
+import React, { useEffect,useState } from 'react';
+
 import Services from '../Services/Services';
 
 const AboutUs = () => {
@@ -8,7 +8,7 @@ const AboutUs = () => {
     
     useEffect(()=>{
       // fake api
-        fetch('./Services.json')
+        fetch('/Services.json')
         .then(res=>res.json())
         .then(data=>setMadical(data))
 

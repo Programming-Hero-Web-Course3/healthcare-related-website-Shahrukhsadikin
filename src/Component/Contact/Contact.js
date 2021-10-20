@@ -12,28 +12,28 @@ const Contact = () => {
                     <div className="col-sm-6 col-md-6 input">
                         <div className="hg-form-component hg-component--grey">
                             <input className="hg-input" type="text" id="name"/>
-                            <label for="name">Name*</label>
+                            <label htmlFor="name">Name*</label>
                         </div>
                     </div>
                     <br />
                     <div className="col-sm-6 col-md-6 input">
                         <div className="hg-form-component hg-component--grey">
                             <input className="hg-input" type="text" id="phone"/>
-                            <label for="phone">Phone*</label>
+                            <label htmlFor="phone">Phone*</label>
                         </div>
                     </div>
                     <br />
                     <div className="col-sm-6 col-md-6 input">
                         <div className="hg-form-component hg-component--grey">
                             <input className="hg-input" type="text" id="phone"/>
-                            <label for="phone">address</label>
+                            <label htmlFor="phone">address</label>
                         </div>
                     </div>
                     <br />
                     <div className="col-sm-6 col-md-6 input">
                         <div className="hg-form-component hg-component--grey">
                             <input className="hg-input" type="text" id="phone"/>
-                            <label for="phone">email</label>
+                            <label htmlFor="phone">email</label>
                         </div>
                     </div>
 				</form>

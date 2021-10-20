@@ -9,7 +9,7 @@ const Home = () => {
     
     useEffect(()=>{
       // fake api
-        fetch('./MedicalService.json')
+        fetch('/MedicalService.json')
         .then(res=>res.json())
         .then(data=>setMadical(data))
 
