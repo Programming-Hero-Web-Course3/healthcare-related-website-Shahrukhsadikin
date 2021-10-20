@@ -1,8 +1,9 @@
 # Medlife Hospital
 
-This is the link of the website I created (-----GIVE YOUR LINK-----)
+This is the link of the website I created (healthcare-related-website-Shahrukhsadikin
+)
 
-## Here is the live link of the site I created (-----GIVE YOUR LINK-----)
+## Here is the live link of the site I created (https://health-care-78c22.web.app)
 # This a hospital. 
 # our services is laboratory,Nutrition,EMERGENCIES etc
 ## We are providing individual details of the services that we have displayed on our website
