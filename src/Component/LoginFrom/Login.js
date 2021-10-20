@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { Link,useLocation,useHistory } from 'react-router-dom';
 import UseAuth from '../hooks/UseAuth';
 import { getAuth, createUserWithEmailAndPassword,sendEmailVerification } from "firebase/auth";
-
+import './Login.css'
 
 
 const Login = () => {
@@ -57,14 +57,15 @@ const Login = () => {
                 <form onSubmit={handleLogin}>
                     <input type="text" name="" onBlur ={handleEmailChange} placeholder="your email" required/>
                     <br />
+                    <br />
                     <input type="password" onBlur ={handlePasswordChange} placeholder="your password" required/>
                     <br />
                     <div className="text-danger">{error}</div>
-                    <input type="submit" value="submit" />
+                    <input type="submit" className="btn btn-warning" value="submit" />
                 </form>
                 <p>New to medlife? <Link to="/register">Create Account</Link></p>
                 <div>------------or----------</div>
-                <button onClick ={handleGoogleLogin} className="btn-regular">google login</button>
+                <button onClick ={handleGoogleLogin} className="btn btn-warning">google login</button>
             </div>
             
         </div>
